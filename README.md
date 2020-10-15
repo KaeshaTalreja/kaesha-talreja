@@ -10,7 +10,7 @@ I am a **Teacher at WhiteHat Jr**... I **love coding and teaching coding to youn
 #### My Favourite Stuff
 
 Color: Red
-Food: all varieties of chicken.. read about my favourite dish.. [Ingredients] (https://github.com/KaeshaTalreja/kaesha-talreja/blob/main/ingredients.md) [Procedure] ()
+Food: all varieties of chicken.. read about my favourite dish.. [Ingredients] (https://github.com/KaeshaTalreja/kaesha-talreja/blob/main/ingredients.md) [Procedure] (https://github.com/KaeshaTalreja/kaesha-talreja/blob/main/procedure.md)
 
 
 
